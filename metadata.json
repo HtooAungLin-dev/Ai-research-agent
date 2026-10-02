@@ -1,0 +1,6 @@
+{
+  "name": "Deep Research Autonomous Agent",
+  "description": "Production-grade autonomous AI research engine with zero API cost architecture, local Ollama + Gemini fallback, multi-source web extraction, pgvector RAG, and instant PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
